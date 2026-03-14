@@ -1,0 +1,21 @@
+body{
+font-family:Arial;
+margin:20px;
+}
+
+header{
+display:flex;
+justify-content:space-between;
+align-items:center;
+}
+
+button{
+padding:8px 12px;
+margin:5px;
+}
+
+.slot{
+border:1px solid #ccc;
+padding:10px;
+margin:10px 0;
+}
