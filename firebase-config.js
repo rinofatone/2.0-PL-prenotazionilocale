@@ -1,6 +1,6 @@
 const firebaseConfig = {
 
-apiKey: "INSERISCI_LA_NUOVA_API_KEY",
+apiKey: "AIzaSyBfHmFNM-BmWw-q_HA8kI7VH3rtc8WdPM4",
 authDomain: "prenotalocale.firebaseapp.com",
 projectId: "prenotalocale",
 storageBucket: "prenotalocale.appspot.com",
